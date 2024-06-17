@@ -632,7 +632,7 @@ button {
 .portfolio_section_2 {
     width: 100%;
     float: left;
-    background-image: url(../images/portfolio-bg.png);
+    background-image: url(portfolio-bg.png);
     height: auto;
     background-size: cover;
     padding-bottom: 60px;
