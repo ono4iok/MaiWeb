@@ -16,7 +16,7 @@
 @import url(animate.min.css);
 @import url(normalize.css);
 @import url(icomoon.css);
-@import url(css/font-awesome.min.css);
+@import url(font-awesome.min.css);
 @import url(meanmenu.css);
 @import url(owl.carousel.min.css);
 @import url(swiper.min.css);
@@ -223,7 +223,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../images/20190321_135304.jpg);
+    background-image: url(20190321_135304.jpg);
     height: auto;
     padding: 15px 0px;
     background-size: cover;
@@ -395,7 +395,7 @@ button {
 .image_0 {
     width: 50%;
     float: left;
-    background-image: url(../images/IMG\ WM-128.jpg);
+    background-image: url(IMG\ WM-128.jpg);
     height: 200px;
     padding: 70px 50px 130px 50px;
     background-size: 100%;
@@ -632,7 +632,7 @@ button {
 .portfolio_section_2 {
     width: 100%;
     float: left;
-    background-image: url(../images/portfolio-bg.png);
+    background-image: url(portfolio-bg.png);
     height: auto;
     background-size: cover;
     padding-bottom: 60px;
